@@ -81,7 +81,11 @@ section {
 
 /* SECOND BREAKPOINT (DESKTOP SIZE) */
 @media screen and (min-width: 1000px) {
-  header {
+ body{
+	 background: blue;
+ }
+
+ header {
     background: #222;
     color: #ccc;
   }
